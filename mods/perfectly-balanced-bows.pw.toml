@@ -1,0 +1,13 @@
+name = "Perfectly Balanced Bows"
+filename = "perfectlybalancedbows-1.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2f209c976745d92b550eba606a62c841d06727c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6596299
+project-id = 1276118

@@ -1,0 +1,13 @@
+name = "Boss Rifts"
+filename = "bossrifts-1.20-v1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6c7da60c259ce47e29df4a55283ee33fbe37b5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4576963
+project-id = 546237

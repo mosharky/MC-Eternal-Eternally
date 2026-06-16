@@ -1,0 +1,13 @@
+name = "Custom Portal Builder"
+filename = "customportalsmod-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4792b4b52e26e0e2aa4aac9cbc0cca48c7ec9a7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5246626
+project-id = 1000278

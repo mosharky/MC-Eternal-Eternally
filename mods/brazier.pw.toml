@@ -1,0 +1,13 @@
+name = "Brazier"
+filename = "brazier-forge-6.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5263d4d6c971a9c5d6d597821444676c2c7e2be6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4702302
+project-id = 402616

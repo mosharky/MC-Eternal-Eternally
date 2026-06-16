@@ -1,0 +1,13 @@
+name = "Milkable Creepers"
+filename = "milkablecreepers-0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36434a6a3301741c5f56727948070f6eb4eb9007"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6550831
+project-id = 1269849

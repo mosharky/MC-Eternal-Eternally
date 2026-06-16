@@ -1,0 +1,13 @@
+name = "The Great Below"
+filename = "thegreatbelow-2.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c33c044a693dcc598dc6b3eabdd5546a704236a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8093649
+project-id = 1241486

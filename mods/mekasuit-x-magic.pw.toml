@@ -1,0 +1,13 @@
+name = "Mekasuit X Magic"
+filename = "meka-magic-shield-forge-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af3f06e71e287624648a1ca971f160486741d12d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8062680
+project-id = 1537833

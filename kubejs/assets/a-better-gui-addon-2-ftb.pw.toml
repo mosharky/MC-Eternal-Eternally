@@ -1,0 +1,13 @@
+name = "A Better GUI Addon 2 (FTB only)"
+filename = "A Better GUI 2 - FTB.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "205344d1ea2905d18ffe85c1310da0bba252adfe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3595175
+project-id = 564454

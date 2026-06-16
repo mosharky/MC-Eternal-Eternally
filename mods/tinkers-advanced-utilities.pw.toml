@@ -1,0 +1,13 @@
+name = "Tinkers' Advanced-Utilities"
+filename = "tinkers_advanced_utilities-3.0.0-beta.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6f421bacf80a7fc8bcba577456d9d00792b7ef7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7904750
+project-id = 1398445

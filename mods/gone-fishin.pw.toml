@@ -1,0 +1,13 @@
+name = "Gone Fishin'"
+filename = "gonefishing-1.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0862ab339ad37dd34867d2bd89fac9388cacac9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7235809
+project-id = 1358325

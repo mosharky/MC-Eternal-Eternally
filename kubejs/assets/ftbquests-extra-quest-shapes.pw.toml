@@ -1,0 +1,13 @@
+name = "FTBQuests Extra Quest Shapes"
+filename = "FTBQuestsShapesHeyKatu.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "187a098134f5cf2c7ae79f7a37488c0b5fa51273"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5654662
+project-id = 1089131

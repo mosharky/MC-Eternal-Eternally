@@ -1,0 +1,13 @@
+name = "MCE2 Lib"
+filename = "mce2lib-0.7-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "027444a4ca70b4a66a68c251a13d7f027efd6dc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8071288
+project-id = 1283675

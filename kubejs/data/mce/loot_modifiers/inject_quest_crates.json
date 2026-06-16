@@ -1,0 +1,49 @@
+{
+  "type": "forge:add_items",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": [
+        "minecraft:chests/bastion_treasure",
+        "minecraft:chests/abandoned_mineshaft",
+        "minecraft:chests/end_city_treasure",
+        "minecraft:chests/stronghold_library",
+        "minecraft:chests/woodland_mansion"
+      ]
+    },
+    {
+      "condition": "minecraft:random_chance",
+      "chance": 0.10
+    }
+  ],
+  "items": [
+    {
+      "item": "ftbquests:lootcrate",
+      "functions": [
+        {
+          "function": "minecraft:set_nbt",
+          "tag": {
+            "HideFlags": 33,
+						"display": {
+							"Name": "{\"translate\":\"item.mce2.quest_loot\",\"color\":\"yellow\",\"italic\":false}"
+						},
+						"type": "quest_loot"
+					}
+        }
+      ]
+    },
+    {
+      "item": "ftbquests:lootcrate",
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": 2
+        },
+        {
+          "function": "minecraft:set_nbt",
+          "tag": "{type:\"curious_box\"}"
+        }
+      ]
+    }
+  ]
+}

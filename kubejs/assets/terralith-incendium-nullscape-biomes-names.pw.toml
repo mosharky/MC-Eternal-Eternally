@@ -1,0 +1,13 @@
+name = "Terralith, Incendium, Nullscape Biomes Names"
+filename = "TerralithBiomesNames.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62140ff8e5583f78ab75d260b8e76dd473c5968f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6553193
+project-id = 1270399

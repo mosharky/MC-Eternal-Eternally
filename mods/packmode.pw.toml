@@ -1,0 +1,13 @@
+name = "PackMode"
+filename = "PackMode-forge-1.20.1-7.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea21dba310b6df4f73d9ba94312a2f1e75a18656"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4671194
+project-id = 278398

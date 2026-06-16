@@ -1,0 +1,13 @@
+name = "Ars Loafers"
+filename = "Ars_Loafers.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8cffc83038a3dd1baa8c0701c725de71683ae9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6628822
+project-id = 1254524

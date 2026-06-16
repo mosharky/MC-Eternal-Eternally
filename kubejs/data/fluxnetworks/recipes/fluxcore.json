@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fluxnetworks",
+  "pattern": [
+    "fof",
+    "oeo",
+    "fof"
+  ],
+  "key": {
+    "o": {
+      "item": "mekanism:refined_obsidian"
+    },
+    "f": {
+      "item": "fluxnetworks:flux_dust"
+    },
+    "e": {
+      "item": "mekanism:pellet_antimatter"
+    }
+  },
+  "result": {
+    "item": "fluxnetworks:flux_core",
+    "count": 64
+  }
+}

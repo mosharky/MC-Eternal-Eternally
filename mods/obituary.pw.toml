@@ -1,0 +1,13 @@
+name = "Obituary"
+filename = "Obituary-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9fe9b404eded0080593c6561b3214a57af05470"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6550267
+project-id = 1269747

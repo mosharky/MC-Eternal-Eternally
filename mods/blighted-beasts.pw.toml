@@ -1,0 +1,13 @@
+name = "Blighted Beasts"
+filename = "blighted_beasts-1.20.1-1.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d085634bea49b3bb7d614112109ae303ff2420b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7771353
+project-id = 1064685

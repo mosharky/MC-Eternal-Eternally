@@ -1,0 +1,13 @@
+name = "Jolly Boxes"
+filename = "JollyBoxes-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c25a9c7d888fc038d6e008fe66367ae4556b9a00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4990867
+project-id = 410698

@@ -1,0 +1,13 @@
+name = "Cat Burger"
+filename = "catburger_forge1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b496fe13d36f8b675234689f1d78d57c623a0d79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6387017
+project-id = 1235575

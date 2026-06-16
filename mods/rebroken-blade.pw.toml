@@ -1,0 +1,13 @@
+name = "Mowzie's Mobs: ReBroken Blade"
+filename = "ReBroken Blade-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b707214d0d4e1f15f44389f5420a326fd80723e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5567243
+project-id = 1070811

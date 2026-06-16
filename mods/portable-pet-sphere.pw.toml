@@ -1,0 +1,13 @@
+name = "Portable Pet Sphere"
+filename = "petcapturetool-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a00f820cc570ffcb1a439d2f0b809c9fa71b21a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6836853
+project-id = 1317560

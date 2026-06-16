@@ -1,0 +1,13 @@
+name = "Ice and Fire Dragons X Better Combat"
+filename = "iceandfirebettercombat.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6dad8643b89258d8866533b4ac088d1c154e5df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5737330
+project-id = 1105606

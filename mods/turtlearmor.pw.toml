@@ -1,0 +1,13 @@
+name = "Turtle Armor"
+filename = "TurtleArmor-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b525efc56615dfdfd922c167b5b9452df696ec1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4728771
+project-id = 490230

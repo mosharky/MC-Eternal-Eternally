@@ -1,0 +1,13 @@
+name = "Better Mana Bar for Iron's Spells 'n Spellbooks"
+filename = "Better Fitting XP Mana Bar for Iron's Spells 'n Spellbooks.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02e40ef4418d5d83a493c222ec948dfeb7ddf258"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5903132
+project-id = 1071368

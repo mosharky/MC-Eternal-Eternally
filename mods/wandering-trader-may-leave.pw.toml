@@ -1,0 +1,13 @@
+name = "Wandering Trader May Leave"
+filename = "wanderingtradermayleave-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f55e2fc4327573fa0ec99436a5de55e52ee3142"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6250715
+project-id = 1210658

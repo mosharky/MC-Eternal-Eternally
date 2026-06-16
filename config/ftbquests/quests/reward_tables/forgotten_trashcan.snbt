@@ -1,0 +1,57 @@
+{
+	hide_tooltip: true
+	id: "031850ED17CA9970"
+	loot_crate: {
+		color: 5592405
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "forgotten_trashcan"
+	}
+	loot_size: 4
+	order_index: 28
+	rewards: [
+		{ count: 3, item: "rats:cheese", only_one: true }
+		{
+			item: {
+				Count: 1
+				id: "farmersrespite:green_tea_cookie"
+				tag: {
+					display: {
+						Lore: [
+							"{\"translate\":\"lore.mce2.forgotten_trashcan.1\"}"
+							"{\"translate\":\"lore.mce2.forgotten_trashcan.2\"}"
+						]
+						Name: "{\"translate\":\"name.mce2.forgotten_trashcan.1\"}"
+					}
+				}
+			}
+			only_one: true
+		}
+		{ item: "alexscaves:green_soylent" }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:paper"
+				tag: {
+					display: {
+						Lore: [
+							"{\"text\":\"1x Rat - 24 Hours \" ,\"color\":\"gray\",\"italic\":true}"
+							"{\"text\":\"Status: LATE!\",\"color\":\"red\",\"italic\":true}"
+							"{\"text\":\"RETURN ON TIME OR FACE FINES!\",\"color\":\"dark_red\",\"underlined\":true}"
+							"{\"text\":\"YOU WOULDN'T STEAL A CAR\",\"color\":\"gray\",\"italic\":true}"
+							"{\"text\":\"YOU WOULDN'T STEAL A HANDBAG\",\"color\":\"gray\",\"italic\":true}"
+							"{\"text\":\"YOU WOULDN'T STEAL A TELEVISION\",\"color\":\"gray\",\"italic\":true}"
+							"{\"text\":\"SO DON'T STEAL A RAT! RAT THEFT IS A CRIME!\",\"color\":\"dark_red\",\"bold\":true,\"italic\":true}"
+						]
+						Name: "{\"text\":\"Rent-a-Rat Reciept\",\"color\":\"dark_gray\",\"italic\":true}"
+					}
+				}
+			}
+			only_one: true
+		}
+	]
+	title: "{ftbquests.loot_table.223017160791464304.title}"
+}

@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Ice and Fire Compat Datapack"
+filename = "Repurposed_Structures-Ice_and_Fire_v6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d18f983a11ebdee0636bd698a1e111d8d04611fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5039896
+project-id = 554361

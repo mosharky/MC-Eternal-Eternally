@@ -1,0 +1,13 @@
+name = "Aquamirae x Better Combat Compatibility"
+filename = "aquamirae_bettercombat.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad9570e2f63f0b9ce165335f170a82c175abc4f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5375670
+project-id = 1025844

@@ -1,0 +1,13 @@
+name = "Ember's Floating Islands - Forge / Fabric"
+filename = "floating_islands-1.4.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a35884a2ac6e44a18567ced095e078b0e26e3827"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7906126
+project-id = 1216244

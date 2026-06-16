@@ -1,0 +1,13 @@
+name = "The Ghast Cow"
+filename = "GhastCow-forge-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76946bf87b0075133558c8e08abae457ea4ffc62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4609437
+project-id = 483348

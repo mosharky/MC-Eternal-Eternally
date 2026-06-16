@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Oh The Biomes We've Gone"
+filename = "farmers-cutting-oh-the-biomes-weve-gone-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41826440408cc22fc75e686f11ac1896a339901a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5682379
+project-id = 1094819

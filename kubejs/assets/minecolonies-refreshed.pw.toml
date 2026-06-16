@@ -1,0 +1,13 @@
+name = "Minecolonies Refreshed"
+filename = "Minecolonies Refreshed 3.2.0-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c36c7c3c15a776b8c044e6e7db0320158568471"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6021366
+project-id = 567347

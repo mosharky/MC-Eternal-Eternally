@@ -1,0 +1,13 @@
+name = "Fractured Moon"
+filename = "Fractured+Moon+1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "665561840b7460ee2cd38ebabee3ee3702db2c1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4013521
+project-id = 679166

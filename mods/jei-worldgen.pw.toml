@@ -1,0 +1,13 @@
+name = "JEI WorldGen - Just Enough Items Addon"
+filename = "JEIWorldGen-forge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ae778ba0b6931930a3e631043129372723cb7fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8055018
+project-id = 1509527

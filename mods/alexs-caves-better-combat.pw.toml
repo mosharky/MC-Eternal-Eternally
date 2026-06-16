@@ -1,0 +1,13 @@
+name = "Alex's Caves Better Combat"
+filename = "alexscavesbettercombat.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c31b52cf3e5dcd95ed6456b02a8133fb7e9ec53f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6045423
+project-id = 1170233

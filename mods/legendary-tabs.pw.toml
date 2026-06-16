@@ -1,0 +1,13 @@
+name = "Legendary Tabs"
+filename = "legendarytabs-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cff47342092627bcf6d871d76877febe102419f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6156083
+project-id = 1172469

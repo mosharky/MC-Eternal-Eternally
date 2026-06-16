@@ -1,0 +1,13 @@
+name = "Simply Stacked Dimensions"
+filename = "simplystacked-1.20-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c400ff4166daa70df65f7dfa65e2c06c9b5d70c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5562948
+project-id = 523416

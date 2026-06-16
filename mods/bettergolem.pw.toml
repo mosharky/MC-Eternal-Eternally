@@ -1,0 +1,13 @@
+name = "Better Golems"
+filename = "bettergolem-1.20.1-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ea7edc5acee08e914d4807b1972f75875c578eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5031452
+project-id = 310350

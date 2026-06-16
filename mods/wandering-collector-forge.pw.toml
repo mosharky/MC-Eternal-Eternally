@@ -1,0 +1,13 @@
+name = "Thom's Wandering Collector [Forge]"
+filename = "wandering_collector-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad4b22df1abbe88150592e45321bd413605165ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5786971
+project-id = 1112785

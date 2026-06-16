@@ -1,0 +1,13 @@
+name = "The Masquerade (Illager Boss)"
+filename = "masquerader_mod-1.2.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "342d01d63e462c6c61de456c32d6cc124b650408"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5726614
+project-id = 1074613

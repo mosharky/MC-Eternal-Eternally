@@ -1,6 +1,6 @@
 name = "Building Gadgets Create like"
 filename = "v2_REFRESH_Building_Gadgets_Create_Like.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

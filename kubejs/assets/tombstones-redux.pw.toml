@@ -1,6 +1,6 @@
 name = "Corail Tombstones Redux"
 filename = "Tombstones redux 1.20 v3.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

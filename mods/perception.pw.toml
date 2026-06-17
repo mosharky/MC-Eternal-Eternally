@@ -1,6 +1,6 @@
 name = "Perception"
 filename = "Perception-FORGE-0.1.4+1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

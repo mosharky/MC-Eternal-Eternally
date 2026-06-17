@@ -1,6 +1,6 @@
 name = "TxniLib"
 filename = "txnilib-forge-1.0.24-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/kQ8qnDHA/txnilib-forge-1.0.24-1.20.1.jar"

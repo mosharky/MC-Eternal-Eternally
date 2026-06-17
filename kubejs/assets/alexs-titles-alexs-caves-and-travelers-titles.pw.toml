@@ -1,6 +1,6 @@
 name = "Alex's Titles (Alex's Caves and Traveler's Titles compatibility)"
 filename = "Alex's Titles 2.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

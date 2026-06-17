@@ -1,0 +1,13 @@
+name = "EnderIO - Refrubished!"
+filename = "enderio-refrubished-release.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ekF0QRe/versions/gqLqPfvN/enderio-refrubished-release.zip"
+hash-format = "sha512"
+hash = "4b4664fcd49429fd7921aeb70758c3b7f0434434361ede745e860e7a837d1cab84221567acc9c455f9b9bdeb204d6d4935e2b8f7cb447731a71ff372f4e0c064"
+
+[update]
+[update.modrinth]
+mod-id = "9ekF0QRe"
+version = "gqLqPfvN"

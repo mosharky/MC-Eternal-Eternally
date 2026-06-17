@@ -1,0 +1,13 @@
+name = "Skillcloaks"
+filename = "skillcloaks-1.20.1-1.2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SpoXB0Dc/versions/ylXGHFXE/skillcloaks-1.20.1-1.2.4.1.jar"
+hash-format = "sha512"
+hash = "4f29c4b51ec400798e3bb2b8cd9e1faf00bb6ec1684137a1cc4f1c8879be719d5ed65b33802f64cfcd2021b971bb21461586f21aac282adbca4d294a778c04e2"
+
+[update]
+[update.modrinth]
+mod-id = "SpoXB0Dc"
+version = "ylXGHFXE"

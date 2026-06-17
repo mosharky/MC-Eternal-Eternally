@@ -3,11 +3,11 @@ filename = "tcompat-1.20.1-2.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "38ed453aba7611e446c09bb22b3d46fdd2ae8b1f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7dqAlUms/versions/2Uxgto1v/tcompat-1.20.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "7fb6d3993664cd5b10bc18e78446441d2b9e9e60a2ae27545a4b8b0ff358726e9330b390aa88a5baeea2e5830d9e4ccc60483b44018d42bd455dbf4e417a4fb6"
 
 [update]
-[update.curseforge]
-file-id = 8205186
-project-id = 1201964
+[update.modrinth]
+mod-id = "7dqAlUms"
+version = "2Uxgto1v"

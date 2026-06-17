@@ -1,6 +1,6 @@
 name = "A Better GUI Addon 2 (FTB only)"
 filename = "A Better GUI 2 - FTB.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

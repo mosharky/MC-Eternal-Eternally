@@ -1,6 +1,6 @@
 name = "FTBQuests Extra Quest Shapes"
 filename = "FTBQuestsShapesHeyKatu.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

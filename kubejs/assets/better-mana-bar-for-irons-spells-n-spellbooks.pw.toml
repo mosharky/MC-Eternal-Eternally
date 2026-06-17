@@ -1,6 +1,6 @@
 name = "Better Mana Bar for Iron's Spells 'n Spellbooks"
 filename = "Better Fitting XP Mana Bar for Iron's Spells 'n Spellbooks.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

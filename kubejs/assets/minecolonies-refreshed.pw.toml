@@ -1,6 +1,6 @@
 name = "Minecolonies Refreshed"
 filename = "Minecolonies Refreshed 3.2.0-1.20.1.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

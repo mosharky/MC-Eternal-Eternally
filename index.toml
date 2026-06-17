@@ -5741,18 +5741,6 @@ file = "config/nyfsspiders.toml"
 hash = "d3677ed2cee0a1837f12ce661727a7b2eeda9eaad2ff6c5e398ae95b477165a4"
 
 [[files]]
-file = "config/obscuria/Data/aquamirae_cover.png"
-hash = "86bec2df159c61ba721a71c7c951450332e3581ce3c8268611c140558989d5b9"
-
-[[files]]
-file = "config/obscuria/Data/loot_journal_cover.png"
-hash = "c516870f7eabb04f762e581df53a7c7330ec28c68f2245fb07885af71bd37830"
-
-[[files]]
-file = "config/obscuria/Data/obscure_api_cover.png"
-hash = "ecd943698913173d1513b8a300072557304e9c262eb8eaa012ba0a357a6a5ad1"
-
-[[files]]
 file = "config/obscuria/aquamirae-client.toml"
 hash = "c5913558bc43a17ff28e21853f6be9713f3d0a6416235e11aaedb8a3998bcb4d"
 
@@ -7254,7 +7242,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/a-better-gui-addon-2-ftb.pw.toml"
-hash = "28067e9e6b82d7c3fe576a1798146dd341fe2cc6b4bfc7ac1152b307839e9eea"
+hash = "0dd9e394fe72b8604de7bc170c1f41882ec1ffcacd3b42d0d005e8565a2ba53b"
 metafile = true
 
 [[files]]
@@ -7263,22 +7251,22 @@ hash = "6299bd3c9f6eaaec9b99fb2366b7837e38218710fdcb743afbf60cf7e9cdc651"
 
 [[files]]
 file = "kubejs/assets/alexs-titles-alexs-caves-and-travelers-titles.pw.toml"
-hash = "cd161396a9ba028d6aa7d9ab5a598292cf593c88d3cba1a7ec10ec7cc4ab58c4"
+hash = "932783409b44956dbf315159d182de0e85d707cd65b7f435817259778483c450"
 metafile = true
 
 [[files]]
 file = "kubejs/assets/aquaculture-updated.pw.toml"
-hash = "8173bfa1aa1779f5a468e1314a86549d6e14b8dc4c70a02fcbd81f8ec07a2567"
+hash = "d6e9c8dd51a1f355badfc2ecababc02e6b56799383e5658a944826687d6fd22a"
 metafile = true
 
 [[files]]
 file = "kubejs/assets/ars-loafers.pw.toml"
-hash = "7fa24b41e15e21afbe645d2d53ae8d427e8dc086abbbf3d2de8acbce75dbb85d"
+hash = "b958f6ae41e5f13a48d4cf5258c8f227c3c338b1066c1a06dd536e4260ee98ee"
 metafile = true
 
 [[files]]
 file = "kubejs/assets/better-mana-bar-for-irons-spells-n-spellbooks.pw.toml"
-hash = "d32f26805f931da041ef210c626103a723dd9a60d5defad0ed57e8a707db3ced"
+hash = "f2dbae3b3a29c652952c49857d2310f7c1398cb19a222d1ee09e0fb344ad9bbe"
 metafile = true
 
 [[files]]
@@ -7295,7 +7283,7 @@ hash = "02371274174451f543d6847971c79185430ee21b81d7f0d0807ed4cbaf444ef9"
 
 [[files]]
 file = "kubejs/assets/building-gadgets-create-like.pw.toml"
-hash = "faa211a47a29fb940bfe2d1ccdfc3869f48b265491320e2baa346066dc29ceea"
+hash = "707ea49819b7e5da46303d8a2cc57f94ebfdf23fca33ffc36faca8229c9a215c"
 metafile = true
 
 [[files]]
@@ -7340,12 +7328,12 @@ hash = "34fb9905859f4c89f48747bfbbab5d378da779de33b66eef29a8ce1f2a7566c0"
 
 [[files]]
 file = "kubejs/assets/create-immersive-aircrafts-andesite-chests-compat.pw.toml"
-hash = "80587e5bd42d9f55a6c5240fda7545337c6d0a47782f69d7eae26200d492a29c"
+hash = "48db687ec7e475e247e03518d596ac7bbda8f8edd8c2f62d9c34dbc9be8ed1ed"
 metafile = true
 
 [[files]]
 file = "kubejs/assets/create-immersive-aircrafts-resource-pack.pw.toml"
-hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+hash = "9216bbb94380ea12be93d405fa9c803715e6efbfc273a485d3c2c8207ee14f82"
 metafile = true
 
 [[files]]
@@ -7414,7 +7402,7 @@ hash = "14956a10e1a38918961456e976439944cc9cda7d3c4d9128a7752a3e6e85e20f"
 
 [[files]]
 file = "kubejs/assets/eclectic-trove-legendary-tooltips.pw.toml"
-hash = "d5d6b3bffcd8026c0f09491e81dff27cdfdcf543acf4947c3e14e79e0b638e83"
+hash = "3ab69222f4097ddf804ef5fb4ecd140d344518b327e4e3f2169859074be712b1"
 metafile = true
 
 [[files]]
@@ -7788,17 +7776,17 @@ hash = "6b3aa57b90934bd96699b49fcbaf49177ec8aa4d240df68f4c4f609b575893c8"
 
 [[files]]
 file = "kubejs/assets/fitting-xp-mana-bar-for-irons-spells-n-spellbooks.pw.toml"
-hash = "9e5f85d54a2d6a5903918fab8bd748d05b1cfbc318e913186670cda92d6b3e56"
+hash = "6d3a517a062793ca993d27b9187848586310da0f7cdf56b1502d37a623ad7bde"
 metafile = true
 
 [[files]]
 file = "kubejs/assets/fractured-moon.pw.toml"
-hash = "51a2768d91c92a0dc8975c2e8e579421c8be5dc1158e002c231bc32026811ca1"
+hash = "7decd64ecf9ffc672d02a4e6dae3871d7425d8e3a49f887c876d773e63dcfdee"
 metafile = true
 
 [[files]]
 file = "kubejs/assets/fresh-waystones-texture.pw.toml"
-hash = "6c4d310b63681f924e4d81c77bb7d56655fe5b4082aca3caf361e142d5d72bfd"
+hash = "074857c259a4a8736a5b09a02bca2edc3bcda55dc7666a438b6df7b2e25ae499"
 metafile = true
 
 [[files]]
@@ -7815,7 +7803,7 @@ hash = "9ab1e672995fe454e2d6dacd10f6804537641e4d0638eb2516ea05d24e493bd4"
 
 [[files]]
 file = "kubejs/assets/ftbquests-extra-quest-shapes.pw.toml"
-hash = "d03249f6f9b6e8c574f5086e42ff800795f24c76a1de33a4d3652d81b5ff50ba"
+hash = "9ee30d99d5e6be494a3b1bd7a906fad08b20fae5df3c4276a1670d0d6dfdf0b5"
 metafile = true
 
 [[files]]
@@ -8388,7 +8376,7 @@ hash = "367ff45dd2e0c90c9e575a2db433c9f9338601404908dca67c7d431b30f8be81"
 
 [[files]]
 file = "kubejs/assets/minecolonies-refreshed.pw.toml"
-hash = "56eaaa2a4e380cd600382aa6c8146b71953c529c50e105df367878ffe1aa9aaf"
+hash = "d5c9ff4858270cbda3d5f25b60c08d1eba464e9a90b800a23e08aca3fd7004ed"
 metafile = true
 
 [[files]]
@@ -8461,7 +8449,7 @@ hash = "ce5068403d44a84e196641aecfb9cfe8c9e2f21c9a76ddf6f8d2454ab14b9c92"
 
 [[files]]
 file = "kubejs/assets/mob-grinding-utils-vanillafied.pw.toml"
-hash = "a8b2bf75f868b7cc81e70a97d4a01528c50b829af7968d269c041cfe56c75cf0"
+hash = "1b873c35a55e54843bf5a79aae905311a162e161ee42745903ca30f30d22707c"
 metafile = true
 
 [[files]]
@@ -9415,7 +9403,7 @@ hash = "dc02e3c25f77300878b1b823418f554cbced40d107f411197bb91d0000c401ae"
 
 [[files]]
 file = "kubejs/assets/terralith-incendium-nullscape-biomes-names.pw.toml"
-hash = "61b3005c12845cb0e7fdd967fa31579334e649eb0d5e6bf7c16a92a4d8dc3db9"
+hash = "0b3f002d975c41bf213f15fe5e4fb0ffdd5e741822f3b4769d44cee76ba201f0"
 metafile = true
 
 [[files]]
@@ -10076,7 +10064,7 @@ hash = "240b52874e3f1416cd40989566a182eef8f0a9e785551c168284a4114ef8ff18"
 
 [[files]]
 file = "kubejs/assets/tombstones-redux.pw.toml"
-hash = "301a6a40b93c7df457daf7c8f3f260bad69dcf44fef7e399361e1a9857d40897"
+hash = "c9967fbec50164d7490dd34a197e4ba105c27b2125cbe39698f3ecee30a3c2ed"
 metafile = true
 
 [[files]]
@@ -19240,10 +19228,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
-
-[[files]]
-file = "observable_announce"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "quests_structures/brazier.nbt"

@@ -1,6 +1,6 @@
 name = "Ars Loafers"
 filename = "Ars_Loafers.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

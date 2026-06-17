@@ -1,6 +1,6 @@
 name = "Terralith, Incendium, Nullscape Biomes Names"
 filename = "TerralithBiomesNames.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

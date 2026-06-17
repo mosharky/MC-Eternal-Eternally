@@ -1,13 +1,13 @@
 name = "Lava Fishing"
-filename = "lavafishing-1.20.1-1.2.0-all.jar"
+filename = "lavafishing-1.20.1-1.1.3-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/puTJzCb0/versions/ZaGHj2D6/lavafishing-1.20.1-1.2.0-all.jar"
+url = "https://cdn.modrinth.com/data/puTJzCb0/versions/ZutGKv3b/lavafishing-1.20.1-1.1.3-all.jar"
 hash-format = "sha512"
-hash = "a31acb81dcff367c20d21e8991934167992a9a54b80f50655b434bc511e27c874a5ee24a614f7d0969693f37618224283411fa52f32555bd3875074c3da93009"
+hash = "d25d5a2d1c65cc4eb0160c10d2fee60ded98e4ad7e938610a8f023ce5456ec8ae69f19fde579d9f61e7c49dc73368b73f634c54477d7178d2b24ce673cafbf61"
 
 [update]
 [update.modrinth]
 mod-id = "puTJzCb0"
-version = "ZaGHj2D6"
+version = "ZutGKv3b"

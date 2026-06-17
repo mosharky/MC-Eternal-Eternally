@@ -3690,7 +3690,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/farsight.json"
-hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
+hash = "2bda25bdc817e1d52f82a2b0635ceace2d2987a60b16db46cf3ca3c675efad1a"
 
 [[files]]
 file = "config/fastbench.cfg"
@@ -5586,7 +5586,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "5e0dfc4e14eba4aae1d93968366af91ad2cf7d1a5d08c3449854c6210414eb03"
+hash = "53d508179f9281bec9e8d0bad2b3d354079f3d0bc4024fbcd88e1b203908fa48"
 
 [[files]]
 file = "config/modernstartupqol-client.toml"
@@ -7418,8 +7418,8 @@ hash = "d5d6b3bffcd8026c0f09491e81dff27cdfdcf543acf4947c3e14e79e0b638e83"
 metafile = true
 
 [[files]]
-file = "kubejs/assets/ender-io-refrubished.pw.toml"
-hash = "ccc0ffde9b132dd45b54abf80f13f4177d7e0f428fd79e8543ef252f23f169a0"
+file = "kubejs/assets/ender_io-refrubished.pw.toml"
+hash = "f9d2abf6c73ceee43e66bcfc95c58d110b10415b46c1771d5151d348175b081e"
 metafile = true
 
 [[files]]
@@ -10113,7 +10113,7 @@ hash = "e3ea1c217d7ffa598e6ea08e5865fe4e741aeae54f17925906cf8682b27b1837"
 
 [[files]]
 file = "kubejs/assets/visual-travelers-titles.pw.toml"
-hash = "8d9628d4203ba80fdd8679ba92802c9f12dc58b971716fc619a6b5962cf106c3"
+hash = "6dc2fb07f22e7ab4d62399bf38e7287ae9d00177718b5b21ba6cc17bdcf9d9e7"
 metafile = true
 
 [[files]]
@@ -17839,7 +17839,7 @@ metafile = true
 
 [[files]]
 file = "mods/lavafishing.pw.toml"
-hash = "c47933dcc5b65035706d2f996cd5ea38a13b0eaccc4a497a35046699ed403572"
+hash = "7580d543113e7163dd265dd51fdd4b76ef3e2db5e0eefb1565b776e19e1157e3"
 metafile = true
 
 [[files]]
@@ -18189,7 +18189,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "2e96ff6625fa5844c2969fd49918310c789aa9d4bfbcffc69c997ba83de41bd6"
+hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
 metafile = true
 
 [[files]]
@@ -18639,7 +18639,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
+hash = "874a064efc37398f5818a38666ea31263bd65ed0478b519b819f7a361bd0893e"
 metafile = true
 
 [[files]]
@@ -18678,8 +18678,8 @@ hash = "3f7946162d419257b6a81eb41643ccaca1b4758159887ff185eca6cd99751c6f"
 metafile = true
 
 [[files]]
-file = "mods/skill-cloaks.pw.toml"
-hash = "a8911700f6ecb15c07d71971e34d8eb94ba9d3cceccff3da60418173f61901ef"
+file = "mods/skillcloaks.pw.toml"
+hash = "44628579deba76180454c86dcf8efa7bf68f7249cabaa969cb3dd604faf66f67"
 metafile = true
 
 [[files]]
@@ -18798,7 +18798,7 @@ hash = "11e6ddd014ace8369d5b626a6430ebbadf3a01cd4e60e96a947084a2c1a3f829"
 
 [[files]]
 file = "mods/species.pw.toml"
-hash = "3b01d740ecb84714512ba7007fda59fb01bb3c0891af6b0ac8496af901be1f2b"
+hash = "50d0cb105f5db0a982d9c00f5ea6aee826866576b796526686ab0877c912e968"
 metafile = true
 
 [[files]]
@@ -19008,7 +19008,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-compatibility.pw.toml"
-hash = "b4918f133294a088429e87ca080bac01aabe7e298e147535c5c611c1f4a6b4c4"
+hash = "25e61af950aaf872127a509f76788b407a89d2f6d31902b2cfe36cdeb68ef1f0"
 metafile = true
 
 [[files]]
@@ -19052,8 +19052,8 @@ hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "4d2a9da7c09a85448943858dfe66fdbf6b2b262acd28ed4055d620ceb560da18"
+file = "mods/totw-modded.pw.toml"
+hash = "692960348d6f2f5b587412c677524ba15dc39b29bfcf19ca5798492c0462a040"
 metafile = true
 
 [[files]]
@@ -19078,7 +19078,7 @@ metafile = true
 
 [[files]]
 file = "mods/trash-compactor.pw.toml"
-hash = "a2f27ef7981a47030054d20a94a0c9fbf269e0d0922f9a1c9dd9ffbcc0485f8d"
+hash = "0120d727cf21a444df5a0862a78ff2860c970629065b21caf64eee238e1b5d03"
 metafile = true
 
 [[files]]

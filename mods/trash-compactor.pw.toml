@@ -1,13 +1,13 @@
 name = "Trash Compactor"
-filename = "trashcompactor-1.20.1-1.0.1.jar"
+filename = "trashcompactor-1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c7bc7772470573b362cb307e412c7f432d5082db"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fA3paGA3/versions/FytqBIjI/trashcompactor-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "d012b8aee3790dadcc7ba9372b8421dcde5bda09da2c440505f90dadcd211cc31e9b6012f5c19a964f6a5747a9ca4e5d24051203a7c676ba97ab2017a0c92c6d"
 
 [update]
-[update.curseforge]
-file-id = 5663376
-project-id = 1051810
+[update.modrinth]
+mod-id = "fA3paGA3"
+version = "FytqBIjI"

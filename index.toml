@@ -16632,7 +16632,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatnotify.pw.toml"
-hash = "0197ff2743b754cd2c24b9d0068184b6eb81746c95ac853b9a9e437eba3b5e81"
+hash = "15293a592898fdb5b6b1c77c37e09591d27f7311826140f680c045bbdf4b45ed"
 metafile = true
 
 [[files]]
@@ -16717,17 +16717,17 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "a24c070e0d9c218c4d286c10d6a77fb845708a1bbd13ca5aa882453674047cbd"
+hash = "d398f8bed91bb94f6cac8128e7894df7cb9db1016fe3f6bb5f6a402b1af38be7"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "59e71665ef4b0068433733809d07828b82887a07e563a9387eb3231bd1bb722e"
+hash = "83acb0182aa695bf742ad2b0f6ddf034d6bae2bb015eb0f63e4073758ba66c0f"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "d4d5838bb986254afbcde2910ef3274f334ef333b8f3587b34378df4d9b4663f"
+hash = "a85ba7ba18bb361e24447e4d15aabf988c391a110f77514301636b31397613e5"
 metafile = true
 
 [[files]]
@@ -17287,7 +17287,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit-forge.pw.toml"
-hash = "04098eb2029459b6d7164ac5b6a888cac67ac80d754866a05e0bc52aaf32e6b3"
+hash = "053a48b5abf336b81b967e953131fc37b35b61a549f6ced7e3876f4362425e4c"
 metafile = true
 
 [[files]]
@@ -18227,7 +18227,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
-hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
 metafile = true
 
 [[files]]

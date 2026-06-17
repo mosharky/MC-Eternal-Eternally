@@ -31,7 +31,8 @@
 /config/sodium-options.json
 /config/sodium-fingerprint.json
 /config/fml.toml
-/kubejs/config/probe-settings.json
+/config/modernstartupqol/startup_times.json
+/config/leaderboards-client.json
 
 # mods
 mods/.connector/
@@ -131,6 +132,7 @@ kubejs/wip_data/
 kubejs/config/
 kubejs/_mod_data/
 kubejs/startup_scripts/src/_core/dev.js
+kubejs/config/probe-settings.json
 globalresources/excavated_variants/
 
 # kubejs loading

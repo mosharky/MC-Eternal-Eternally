@@ -31,6 +31,8 @@
 /config/sodium-options.json
 /config/sodium-fingerprint.json
 /config/fml.toml
+/config/modernstartupqol/startup_times.json
+/config/leaderboards-client.json
 
 # mods
 mods/.connector/
@@ -127,6 +129,7 @@ shaderpacks/*EuphoriaPatches*
 /py_scripts/__pycache__/
 /py_scripts/py_scripts.log
 /py_scripts/generated/
+kubejs/config/probe-settings.json
 
 # launcher-related
 /.curseclient

@@ -2194,7 +2194,7 @@ hash = "e9278cb00ddef3cd6733d7a76abd89beb1adb6b8bebb5984e3abe85f6d814c67"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "872f59dd6e2cbf16e0263ea1270a0bfcbc8fe46417b34fe360c8eec7572e3cc1"
+hash = "dd95b500aa8dad36132e74003276e106c4fe9d0c3b97cd5cb33fab28621523c4"
 
 [[files]]
 file = "config/attributeslib.cfg"
@@ -2338,7 +2338,7 @@ hash = "aa36ed552c0c6efaeb76ed91d8bf496b89818a7710060ee50996afe1c2a2aaff"
 
 [[files]]
 file = "config/betterfpsdist.json"
-hash = "7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017"
+hash = "1d15ff6d4f6998f7f14e0726d7a9e22d79935bffd82e9f8e3624d1127e79e517"
 
 [[files]]
 file = "config/bettergrass.json5"
@@ -5589,10 +5589,6 @@ file = "config/modernstartupqol-client.toml"
 hash = "0d74553069ebaa768d168aec650d8fe2b20290c113f86dfcfe2d2ad241b170bc"
 
 [[files]]
-file = "config/modernstartupqol/startup_times.json"
-hash = "70b0b8d5c0bc962aef826f4ddcb97bd3f62080f17cf7c1902a713d5b34d6623f"
-
-[[files]]
 file = "config/modonomicon-client.toml"
 hash = "ac399eabe0ff6b5dffc5c39469ab794394375525af0eefcc8c45b71213eb83f3"
 
@@ -6394,7 +6390,7 @@ hash = "64d2ce1b1675f17e0807180b9680ef9c97e4b92ac86962b7cbf27f0db4926eb6"
 
 [[files]]
 file = "config/sodiumextras-client.toml"
-hash = "717c9ee48ad0bde15e315dcfd9f67b99668c8eea8972fcd198b91e0923ff267a"
+hash = "3e2e0efb697756584a7a2aa254e53d1b54d66243b56bd9dc6d69cdd8db8f129f"
 
 [[files]]
 file = "config/solapplepie-client.toml"
@@ -7125,6 +7121,10 @@ file = "defaultconfigs/create_simple_generator-server.toml"
 hash = "34d9a3c5b78535bed7ba8e6cf557a80b93fd5b3785616ddc09b877d003cf40b2"
 
 [[files]]
+file = "defaultconfigs/createultimine/createultimine-server.snbt"
+hash = "7362245cf138d18b24e5d1f47957ecc1d5e8609ec5e7f4968dead75579c844f4"
+
+[[files]]
 file = "defaultconfigs/eechelons-echelons-1.20.1-v3.toml"
 hash = "3247f57e577e69bb3e4e8d6c22b59ac114b6fc0e0c38c66ca6232db376ce902e"
 
@@ -7166,11 +7166,11 @@ hash = "b882485f06e840273d3d289b6040442b9a93f0c3a7ea01d730e0fea76d246c22"
 
 [[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
-hash = "29b00fa9efa03679a1743cad71b994decd0f79a597aaac22994e38278079d226"
+hash = "98a7dc004bf5900a0879f4ffc6f1e0f33c7099a97484156cf281a00074e9355f"
 
 [[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
-hash = "58280e36823a080665aaf3e2417b52a04da1459074c7464eb517d8fb191c86ea"
+hash = "dbfbcbb8171a96b671076a2727b71a36e5e38adc568088295d275d236e384a2f"
 
 [[files]]
 file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
@@ -7337,11 +7337,6 @@ hash = "34fb9905859f4c89f48747bfbbab5d378da779de33b66eef29a8ce1f2a7566c0"
 [[files]]
 file = "kubejs/assets/cpapireforged/lang/pt_br.json"
 hash = "34fb9905859f4c89f48747bfbbab5d378da779de33b66eef29a8ce1f2a7566c0"
-
-[[files]]
-file = "kubejs/assets/create-immersive-aircraft-warship.pw.toml"
-hash = "b1dd7cf04938da3f86662e08746f60d164b03da518084eaa34fb732059d5f1b9"
-metafile = true
 
 [[files]]
 file = "kubejs/assets/create-immersive-aircrafts-andesite-chests-compat.pw.toml"
@@ -7854,11 +7849,6 @@ hash = "764c4ed9cfd4d838fb8940dcdc09fcca72b1efc50d39fe8afd055f436e7aad84"
 [[files]]
 file = "kubejs/assets/gateways/lang/pt_br.json"
 hash = "5fc6e6599c2d1f7e58c6ad7fde381d2857a68772814e4a945d7ccd6b991d2126"
-
-[[files]]
-file = "kubejs/assets/ice-fire-dragonsteel-weaponry.pw.toml"
-hash = "d9ccdf8c11f7d53e65a79ce0ba262ca3cfabecca672b5d8a0aaf1d58fb043507"
-metafile = true
 
 [[files]]
 file = "kubejs/assets/immersive_aircraft/lang/en_us.json"
@@ -9381,6 +9371,14 @@ hash = "4aa6a2dcf57ff2713ca89fed9fdeb42124a66d38619aba9a133ade951c6fad10"
 [[files]]
 file = "kubejs/assets/sdrp/lang/pt_br.json"
 hash = "78e9fc9c5359312657c8b414e6db2047a48095787be16ce3b51fdb74005b9c03"
+
+[[files]]
+file = "kubejs/assets/special-Create Immersive Aircraft Warship ResoucePack v1.2.zip"
+hash = "dc15bc747c981b2eb238352681392a3e31c97a259f3748410a134c67a5db8df2"
+
+[[files]]
+file = "kubejs/assets/special-IAF-DE4THR4SH-Dragonsteel-Weaponry-V-3.5-[1.20.X].zip"
+hash = "675265a75b9b963d207a108db8c7f35e14096518258bee448ae03c31f4499d20"
 
 [[files]]
 file = "kubejs/assets/special-SE Vanilla Consistency 1.20.1.zip"
@@ -13039,11 +13037,6 @@ hash = "9bbd764bc260954610ba2b03f74d782293914adb44edfd1d058b6b215d6265d2"
 metafile = true
 
 [[files]]
-file = "kubejs/data/create-immersive-aircrafts-warship-recipe.pw.toml"
-hash = "dae6a238af6db64b96e8c05ac810fea0136ee02b0d8dc9644409ad12c0092a59"
-metafile = true
-
-[[files]]
 file = "kubejs/data/create/recipes/mechanical_crafting/airship.json"
 hash = "0b5e68547717890c5979db67e922e1cb0cb0b5e106a24221962f9342f1f0c3ad"
 
@@ -14287,6 +14280,10 @@ metafile = true
 file = "kubejs/data/sky-villages-waystones-compat.pw.toml"
 hash = "54926190f54630e6c392b3c83eed46c343782e8e10556b2372db0bcfe4acc31c"
 metafile = true
+
+[[files]]
+file = "kubejs/data/special-Create Immersive Aircrafts Warship Recipe DataPack v1.0.zip"
+hash = "ec511627ad6f83312fbf003202ceca281a6e7104b9ac7b06e5b2b2d01cd4391f"
 
 [[files]]
 file = "kubejs/data/species/gameplay/cruncher_pellets/deadking.json"
@@ -16927,6 +16924,11 @@ hash = "2f500732220959136231c70430577b44622a4bb68ec6339631a2d35a3589bbf6"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimine.pw.toml"
+hash = "fbc953d3dff927e534911ec0054622db525f4358bf7457dd32460611887fd2dd"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
@@ -17052,6 +17054,11 @@ hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d172fa9a7f856fa1fbc2de40cb7d72ad41462d759fab84d228664ba23d5040b6"
+metafile = true
+
+[[files]]
 file = "mods/domestication-innovation-fixed.pw.toml"
 hash = "abd13560972cb4db4dcd473da171c6cc53f1e065dbe2ca717fa8558fd9aa316d"
 metafile = true
@@ -17164,11 +17171,6 @@ metafile = true
 [[files]]
 file = "mods/energymeter.pw.toml"
 hash = "96c83f92d038524c36df54aadad8a3d8ba4a3f3643b998a1a5a228a9f35e2abc"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-boss-bars.pw.toml"
-hash = "2e079cbf315d24f1fbac7cadb09ca9f2928f99ee9ff01ed5cc58fd6b61e8439a"
 metafile = true
 
 [[files]]
@@ -17349,11 +17351,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "cb0c18100598426c1680eb75afdfdc667a53c95d684d093677458da0afd8a6cb"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quest-localizer.pw.toml"
-hash = "956d1509932700458353873bda1a657d66c3c67fae5fbf345e42d6aaa453d4d7"
 metafile = true
 
 [[files]]
@@ -18137,11 +18134,6 @@ hash = "6c3571b3d62c673d575e654edab9ab17f70049811e168b4d070e12e5d9fb7b5f"
 metafile = true
 
 [[files]]
-file = "mods/mob-population-control.pw.toml"
-hash = "525e28fdbfc4cf7a8ec5de9a7531c255da16073afbf978e97a817639455b59b3"
-metafile = true
-
-[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "cd3140db1982e4e1b17c60b71e436fc92c22b1a6ce189e6b8197d1275487679c"
 metafile = true
@@ -18299,11 +18291,6 @@ metafile = true
 [[files]]
 file = "mods/nukateams-gun-lib.pw.toml"
 hash = "bf7a90321616bb21f61076fa8421af173da6fe3003bc8e7f16cb5df22054d0e5"
-metafile = true
-
-[[files]]
-file = "mods/obituary.pw.toml"
-hash = "c72e7aae4f3ef3e4b2ee2bb3dcb0eff1976250fb5b6cce4de00fd2f889423081"
 metafile = true
 
 [[files]]
@@ -18762,9 +18749,33 @@ hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
+file = "mods/special-MobPC-1.20-1.0.0.jar"
+hash = "a52696ccba3425adf8b0293cf861691b9928d6245c8814ec35f92cba3b2025a1"
+
+[[files]]
+file = "mods/special-Obituary-1.0.jar"
+hash = "d02035e58e2efdc3e4b4caedc2722ae3dc6564e1ba227a4aaf91d1b6522d0ed1"
+
+[[files]]
+file = "mods/special-TurtleArmor-1.20.1-1.4.1.jar"
+hash = "9642e0dca9a2c24df45c3c249ee116c16b0eedaa5caa3542f62603efaa085312"
+
+[[files]]
+file = "mods/special-enhanced_boss_bars-1.20.1-1.0.0.jar"
+hash = "c86c6e909ec4731efaae4b97bb06d7d5a559794861c5805491ee0da0497c4877"
+
+[[files]]
+file = "mods/special-ftbquestlocalizer-1.20.1-forge-3.2.2.jar"
+hash = "ca882539bb9229e8f0032cf78e373bcc5850448a7d7407f51ab480fc89fcb3bf"
+
+[[files]]
 file = "mods/special-mobs.pw.toml"
 hash = "a5c08274934ce31d1318a6948933e8483ce4effe449254e9dcc13f621e7ffb75"
 metafile = true
+
+[[files]]
+file = "mods/special-whats_your_build-forge-1.20.1-0.2.2.jar"
+hash = "11e6ddd014ace8369d5b626a6430ebbadf3a01cd4e60e96a947084a2c1a3f829"
 
 [[files]]
 file = "mods/species.pw.toml"
@@ -19062,11 +19073,6 @@ hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
-file = "mods/turtlearmor.pw.toml"
-hash = "e4aec458479687eba374fd77f36ef560ee275079750d26571d2fb50877e3039e"
-metafile = true
-
-[[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "60caa4ccffc64ce64ed33f566e4c340dcde3d49a976ba4597181cb1aea09ad87"
 metafile = true
@@ -19144,11 +19150,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "2f562cf0b6de7d08ede7aed8065dabcb9ba5a8ce376465f6fd39d722b88aea00"
-metafile = true
-
-[[files]]
-file = "mods/whats-your-build.pw.toml"
-hash = "b626bf4ea3f0118f4557e690d84c4d001fc11f3c33e063e4ef6bb9a3fc5d6df6"
 metafile = true
 
 [[files]]

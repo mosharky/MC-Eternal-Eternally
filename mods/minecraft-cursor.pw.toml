@@ -1,6 +1,6 @@
 name = "Cursors Extended"
 filename = "minecraft-cursor-forge-3.11.2+1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7222136
 project-id = 1184736
+
+[option]
+optional = true
+default = true
+description = "Custom cursor"

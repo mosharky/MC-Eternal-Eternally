@@ -2298,7 +2298,7 @@ hash = "5c77c279bb5b3f74ae8ecd8cace949ff87276f1a6753a0c5595721802b209c70"
 
 [[files]]
 file = "config/bettercombat/client.json5"
-hash = "c2e120f6052ef182d12b20dc9e568cf920f28d816a6c4e172bdd6928c617289d"
+hash = "cd6524fe330f4672f2e3bd188d89e4fd523305e9a8b052f24dc0758e4a7affdb"
 
 [[files]]
 file = "config/bettercombat/fallback_compatibility.json"
@@ -2338,7 +2338,7 @@ hash = "aa36ed552c0c6efaeb76ed91d8bf496b89818a7710060ee50996afe1c2a2aaff"
 
 [[files]]
 file = "config/betterfpsdist.json"
-hash = "1d15ff6d4f6998f7f14e0726d7a9e22d79935bffd82e9f8e3624d1127e79e517"
+hash = "37b3fc20f9a1ad21b21dccf627c880619543ea20a75d6981ccf349f397f235e8"
 
 [[files]]
 file = "config/bettergrass.json5"
@@ -2646,7 +2646,7 @@ hash = "0a696990d5a121dac6aba427b78c0335ece4f9b6c453c2cb5d20f1909e72ef3e"
 
 [[files]]
 file = "config/cofh_core-client.toml"
-hash = "6d8deb4140f60cd048fb0b556bab8ed951047ee7d27b89783c7839a80adae813"
+hash = "9ad28e39cee5067971165024d53a025268f70f1d6abe84fae11786248527e574"
 
 [[files]]
 file = "config/cofh_core-common.toml"
@@ -2670,7 +2670,7 @@ hash = "dadaab9a7f6a084171da3fa6bb2d1fb032ca62bcab54481dbf3eb73356bf9596"
 
 [[files]]
 file = "config/combatnouveau-client.toml"
-hash = "0d5d4d75007ff1abab4dab254aeef4844f70ea9830eb4f4d298142dc5a287e6a"
+hash = "0ddc140168a47565a699ec128497f63cc0dfd01bda9dd2df6ebd12bf249c5e82"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
@@ -2882,7 +2882,7 @@ hash = "e3ec9d521f6afd9b205c8ffb6061d68d7a3a387b8db34ff111d7041f5b30b165"
 
 [[files]]
 file = "config/cucumber-client.toml"
-hash = "8728108be29b34595d998261b40bba3ffb58f0def0dbe3b5c0e48c4fb708a3bc"
+hash = "2c18171d027c85858f55e1591b906b8fe8393dff81e47a0166b7234b94dc6d9b"
 
 [[files]]
 file = "config/cucumber-common.toml"
@@ -3066,7 +3066,7 @@ hash = "7652c9b8bc6cd1aeb915552aaad4abd1948ec8609dd4731f9712e237b3e39714"
 
 [[files]]
 file = "config/durabilitytooltip-common.toml"
-hash = "a00d2ddb5ff61267d17392e97800be0b7987d5f02d891f0de5ae1c429988baa6"
+hash = "2f33433f38df628bf545b76e0ae5babe3efe1ad08dae14b6077a44c768072d7f"
 
 [[files]]
 file = "config/dusk.json"
@@ -3127,6 +3127,10 @@ hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 [[files]]
 file = "config/emojiful-client.toml"
 hash = "dc7df7ab68d7294a95c6ed7e168dd21eb396beafbed659fdb053e16c4e6bb348"
+
+[[files]]
+file = "config/enchdesc.json"
+hash = "c8760ba8229b074a93f97e779fb1d4cfba1844fc1427377fdb40c59318717df1"
 
 [[files]]
 file = "config/enderio/armory-common.toml"
@@ -5014,7 +5018,7 @@ hash = "c105eba37b84f28eb27c86f863cff391e65bb08f3a4549db282faf2b17245804"
 
 [[files]]
 file = "config/immersive_weathering-client.toml"
-hash = "f36bb759ebb4493cd78a3f06dd47368d82effc78cbf3113b5dfe4d9093243cd9"
+hash = "023c43a3de9ad76fbd78a16178a583cec701b91c4c8a3c0b6ec7b4b3c25e37e1"
 
 [[files]]
 file = "config/immersive_weathering-common.toml"
@@ -5310,7 +5314,7 @@ hash = "c792de5ad541a76e22f6398bc32e4c67ab43c20537a08bd9a7148f1fe5a5b3d0"
 
 [[files]]
 file = "config/kiwi-client.yaml"
-hash = "71560d69ce733c76b7be4818e7b7c7f619a86d4452c20da448c695722abb4c53"
+hash = "c15bfda26c81e78f6c2b761711823834ba3defcc6060947856981848851334af"
 
 [[files]]
 file = "config/kiwi-common.yaml"
@@ -5582,7 +5586,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "fc4ecfd724bcdfac1e2ba02622171e27452cec469da58c55875ce17a334fbc5c"
+hash = "5e0dfc4e14eba4aae1d93968366af91ad2cf7d1a5d08c3449854c6210414eb03"
 
 [[files]]
 file = "config/modernstartupqol-client.toml"
@@ -5762,7 +5766,7 @@ hash = "7c2417bb53436a9ec0be69b7f9187e76509a519b8bb2c4d5bfca6195a178004d"
 
 [[files]]
 file = "config/obscuria/obscure-api-client.toml"
-hash = "90b60c01677fe0899e1b1fbf0deb8aba975f3540a0abb979a1c9aa7760930fe2"
+hash = "978e952719c35724ffc46d0839646e5fa9eecfd268df41de0389da009a5ec80e"
 
 [[files]]
 file = "config/obscuria/obscure-tooltips-client.toml"
@@ -6010,7 +6014,7 @@ hash = "7df45b8218ebe26450a2729c0974c722a64d23372d383151a1d2a828a1fdd541"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "cd855e85874605b6093a5a912333f3a5a034b452dad1462b292c82ffbb739b3f"
+hash = "eb4c66d670d4b727f19c3f346c3e7cc095249b0a4ddb51632fdc5cffa639692c"
 
 [[files]]
 file = "config/questsadditions-client.toml"
@@ -6734,7 +6738,7 @@ hash = "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587"
 
 [[files]]
 file = "config/tombstone-client.toml"
-hash = "8c4b7337c2cf1c7c4e92f2553eb34937f9e4d08d4eaa60dcab4dfc98e56e8acc"
+hash = "02fd5f2ba61423270ebbd3879509f7b622490a1951456e9c009d8d936fe32f67"
 
 [[files]]
 file = "config/tombstone-common.toml"
@@ -6942,7 +6946,7 @@ hash = "751e218122c98263d9de3965fde756ef502d46f582e955f290873923ace2a3d5"
 
 [[files]]
 file = "config/veinmining-common.toml"
-hash = "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4"
+hash = "0edad785a368a4b71a1410ae47198f16cc0cebaa5c40409548180cbad1403f75"
 
 [[files]]
 file = "config/veinmining-server.toml"
@@ -7150,11 +7154,7 @@ hash = "f0a608c717f5550aad858a0e928252e9f88ae8d253d27be37632353bad0b686d"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
-hash = "d865efe3f894aab63bd4480662d069c42fe8efbe618ae9d7327469936b081b3c"
-
-[[files]]
-file = "defaultconfigs/ftbessentials.snbt"
-hash = "d865efe3f894aab63bd4480662d069c42fe8efbe618ae9d7327469936b081b3c"
+hash = "efd68986ae51ad8bc908cd447505d3da56ffcade77188f4283704119bbe44c09"
 
 [[files]]
 file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
@@ -9349,6 +9349,11 @@ file = "kubejs/assets/modpack/textures/warped_toad.png"
 hash = "21f85ebc63dee4ba05a44c6addb48e4e7a60f0d31732f290db386f4c1a470ae3"
 
 [[files]]
+file = "kubejs/assets/more-quark-tooltip-attributes.pw.toml"
+hash = "b2701531f00f72a569b8f3a461c0a0b850831132b714987e7bdaa5179d944fdc"
+metafile = true
+
+[[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
 hash = "c929e071c91bf55791fa99ce47be8bfc192ad88841a43e21c83c134332210b2c"
 
@@ -10150,6 +10155,10 @@ hash = "412067555beb74d786f7a06eca9e814300d6564e5770983b7912426582afd830"
 [[files]]
 file = "kubejs/assets/xaeroworldmap/textures/mob_effect/no_world_map.png"
 hash = "41d31e597193b1a926fcf200afc3b97873088a98260f7a38f64a5d257bcfcd4f"
+
+[[files]]
+file = "kubejs/client_scripts/_CUSTOM/quark.js"
+hash = "1ec745e2a8ddd5dbbac150c76947694aaf2fb2df7f82b5e2e866d89765a60bdd"
 
 [[files]]
 file = "kubejs/client_scripts/custom_cape_registry.js"
@@ -16455,7 +16464,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
 metafile = true
 
 [[files]]
@@ -16475,7 +16484,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "ce67892bdb1211993f6d7089317305a91ad049b8ce582e6525c67a422898f8a6"
+hash = "84b6113c5935b681f3dd134285cd0306c4803f2cfa67f637565db6854bd21600"
 metafile = true
 
 [[files]]
@@ -16645,7 +16654,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "3177bf3a49a3ccb0c8608c75caa43399425bbcf4c1b2bd729af15bb12fb75d58"
+hash = "d32dba94eea22780a0c71b56e2c00a141254175fedd10f6fa9a5e82866ea7c4f"
 metafile = true
 
 [[files]]
@@ -17050,12 +17059,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "d172fa9a7f856fa1fbc2de40cb7d72ad41462d759fab84d228664ba23d5040b6"
+hash = "a3085decb5b25159bed5030fd302769633970ab3d6951afd1cc375eb36c7cff9"
 metafile = true
 
 [[files]]
@@ -17080,12 +17084,17 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "5d26683eb83fce5f135fe92e223a5a6e294fcffcae786d6f05d5ed119690a46b"
+hash = "5c0f102bb7d0ca54f2d252424140079716fd5442319807c222a91ab94df0c157"
 metafile = true
 
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "8083402b75eeee721174e809e4c4c211642a1ec52c6192230654bd960c1145f8"
 metafile = true
 
 [[files]]
@@ -17141,6 +17150,11 @@ metafile = true
 [[files]]
 file = "mods/embers-floating-islands.pw.toml"
 hash = "026d0fa4ce15082547e577ec9de19ddb0a8eeaedfdda9479267be5ffa668a0f3"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "dbc04cf71baa724fea03c005d6d1513605aabd2089a0d167bbfe7d082f8da009"
 metafile = true
 
 [[files]]
@@ -17240,7 +17254,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "bfde417f768e5517c25fa35f4640073c7cbee0097833ae19be149b903daaf39c"
+hash = "bc0b08ad1a25ce5a58643ff724c2b184fffb4b85b11373f58427e7aac15cb3dd"
 metafile = true
 
 [[files]]
@@ -17265,12 +17279,12 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "0edc2b9d68e308c820489f8bb378f1eb540ba684ac23be242fcc4655f05ff423"
+hash = "4043c434b30a501e3b88c08afb612427816df9755ca0e3a97126728c5ffc7f37"
 metafile = true
 
 [[files]]
 file = "mods/farsighted-mobs-forge.pw.toml"
-hash = "4faaa75710197421e8191c89735e308718acf3a1b58427a3976652eddb1cca81"
+hash = "2e6870e436c67fa68f7d3258df52568ad4b3fb6a86f3e57da28a6affe9421ec5"
 metafile = true
 
 [[files]]
@@ -17310,7 +17324,7 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "d6a5cdb6c3bcb6987b21d45b4953ef3df03141594acd763cfeb86f0144b2ac78"
+hash = "653babb355a721abd85eaa56801f240e162314c7eef6b2a7d6a992917772ae47"
 metafile = true
 
 [[files]]
@@ -17575,7 +17589,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-ui.pw.toml"
-hash = "2caf631ee176d7d1134a654b8d1512fb37d7e789519925793b2e5c1428b318f7"
+hash = "13b690894a30964c83dac2451a72b6774345614d4ae6bbfef843280f07fa36d0"
 metafile = true
 
 [[files]]
@@ -18100,7 +18114,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-cursor.pw.toml"
-hash = "5d3054652227f5f3f4916e7cdc70c66ec10ed22bab4dca67b3695855a3a44d19"
+hash = "5d4ac42332f398c88b335efaf7c2c57c26c970d88cdb788530fb8e6f088ffb20"
 metafile = true
 
 [[files]]
@@ -18111,6 +18125,11 @@ metafile = true
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "d4a42351be29d476b540e810a2339b05f2f0cf789d62404da7c708b685c9ecda"
+metafile = true
+
+[[files]]
+file = "mods/mining-speed-tooltips.pw.toml"
+hash = "0a3089049f71aee801d680c54015a5d98835c8a46bf23647bece8fae0105ff06"
 metafile = true
 
 [[files]]
@@ -18135,7 +18154,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "cd3140db1982e4e1b17c60b71e436fc92c22b1a6ce189e6b8197d1275487679c"
+hash = "0bb674b857580f12bd2c422af10506d98948b65838992fa7fc53c2e597cdbc56"
 metafile = true
 
 [[files]]
@@ -18435,7 +18454,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "9244e3ce294b09a630e6343fba1bea75c3bb3f661441a7fc7462446bd888c932"
+hash = "645c5bcf61b6c1d24d0a55d3776e510bbf4a96b6027871482817c8bf67ffd6f3"
 metafile = true
 
 [[files]]
@@ -18740,7 +18759,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "3fff9456c0ef97caab6584a10517f20822e138b627da4b26c8c46e6330d7e7cd"
+hash = "876d51448483ef02d5aec172da20dc3b9dd61eabf72adabff66a588356896705"
 metafile = true
 
 [[files]]
@@ -19073,6 +19092,11 @@ hash = "de3524544e462fc53f0959a59c879a866730436083527ecf37852f4682b93786"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
+metafile = true
+
+[[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "60caa4ccffc64ce64ed33f566e4c340dcde3d49a976ba4597181cb1aea09ad87"
 metafile = true
@@ -19159,7 +19183,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-play-time.pw.toml"
-hash = "78b385812b519c5dfcf904130fa60346328c613fce2b9d35bcbd5bb10a424f90"
+hash = "5d6802532775212f3411fee956c9151d8917c9a6ed1a4b1c81ab9630e8b02076"
 metafile = true
 
 [[files]]

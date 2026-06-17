@@ -148,7 +148,7 @@
 			# You can override this with FTB Ranks using ftbessentials.back.cooldown
 			# Default: 30
 			# Range: 0 ~ 604800
-			cooldown: 300
+			cooldown: 120
 			
 			# Default: true
 			enabled: true
@@ -167,7 +167,7 @@
 			# You can override this with FTB Ranks using ftbessentials.back.warmup
 			# Default: 0
 			# Range: 0 ~ 604800
-			warmup: 0
+			warmup: 3
 		}
 		
 		# Allows users to set 'homes', which they can then freely teleport to by using /home afterwards
@@ -176,7 +176,7 @@
 			# You can override this with FTB Ranks using ftbessentials.home.cooldown
 			# Default: 10
 			# Range: 0 ~ 604800
-			cooldown: 60
+			cooldown: 0
 			
 			# Default: true
 			enabled: true
@@ -191,7 +191,7 @@
 			# You can override this with FTB Ranks using ftbessentials.home.warmup
 			# Default: 0
 			# Range: 0 ~ 604800
-			warmup: 10
+			warmup: 3
 		}
 		
 		# Allows admins to jump (teleport) to the focused block
@@ -207,7 +207,7 @@
 			# You can override this with FTB Ranks using ftbessentials.rtp.cooldown
 			# Default: 600
 			# Range: 0 ~ 604800
-			cooldown: 86400
+			cooldown: 3600
 			
 			# Blacklisted dimension ID's for /rtp (player *must not* be in any of these dimensions)
 			# Wildcarded dimensions (e.g. 'somemod:*') are supported
@@ -257,7 +257,7 @@
 			# You can override this with FTB Ranks using ftbessentials.spawn.warmup
 			# Default: 0
 			# Range: 0 ~ 604800
-			warmup: 15
+			warmup: 3
 		}
 		
 		# Allows players to create requests to teleport to other users on the server,
@@ -276,7 +276,7 @@
 			# You can override this with FTB Ranks using ftbessentials.tpa.warmup
 			# Default: 0
 			# Range: 0 ~ 604800
-			warmup: 10
+			warmup: 3
 		}
 		
 		# Allows admins to teleport to the location a user was last seen at

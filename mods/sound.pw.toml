@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5940443
 project-id = 925889
+
+[option]
+optional = true
+default = true
+description = "New block and UI sounds"

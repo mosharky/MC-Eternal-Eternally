@@ -1,6 +1,6 @@
 name = "Immersive UI"
 filename = "ImmersiveUI-FORGE-0.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6023593
 project-id = 1021685
+
+[option]
+optional = true
+default = true
+description = "Animated UI"

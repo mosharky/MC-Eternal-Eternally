@@ -1,13 +1,13 @@
 # Use Cloth Config mod for the descriptions.
 ---
 contributorCosmetic: ''
-cosmeticScreenKeybind: true
+cosmeticScreenKeybind: false
 globalTooltip: false
 noMicrosoftTelemetry: true
 debug:
-  tagsTooltip: true
+  tagsTooltip: false
   debugTooltipMsg: false
-  tagsTooltipAppendKeybindHint: true
+  tagsTooltipAppendKeybindHint: false
   tagsPerPage: 6
   NBTTooltip: false
 suppressExperimentalSettingsWarning: false

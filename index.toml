@@ -17176,6 +17176,11 @@ hash = "96c83f92d038524c36df54aadad8a3d8ba4a3f3643b998a1a5a228a9f35e2abc"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-boss-bars-mod.pw.toml"
+hash = "170a341c0cfc02b56374f1a2c4391e89a6705a8636b3ba6712e6cd13d786a35f"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "dbc79194f822b2800d5ee42807416baeaf34ceae92c72eb07469619c074d0684"
 metafile = true
@@ -17842,12 +17847,12 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tabs.pw.toml"
-hash = "bda354ca4dca211e4bdc6777b3d269d444e2420678e0a4203da50320b526dc6e"
+hash = "cb2d2798e58aa1755a572cb0bbd83efe96a343a70063f4939e7decbd46578d98"
 metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "35c0251ad56fdf68faef3ea142fe0b76016937ab6fa52b65ce222ea7d1fb5b74"
+hash = "bbbef26097069430126ba44de152dda9c72c8b2ec2ff3c5036d526f069de8c09"
 metafile = true
 
 [[files]]
@@ -18002,7 +18007,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "445fc568c930cbbe03f60553237902245578acd0922fa67896e2a387abc2ae2f"
+hash = "12934e9434e42aaebcecb5a0beb3d6ecd2ef19146ebd6498ab9a9d05fbc926a0"
 metafile = true
 
 [[files]]
@@ -18766,10 +18771,6 @@ hash = "d02035e58e2efdc3e4b4caedc2722ae3dc6564e1ba227a4aaf91d1b6522d0ed1"
 [[files]]
 file = "mods/special-TurtleArmor-1.20.1-1.4.1.jar"
 hash = "9642e0dca9a2c24df45c3c249ee116c16b0eedaa5caa3542f62603efaa085312"
-
-[[files]]
-file = "mods/special-enhanced_boss_bars-1.20.1-1.0.0.jar"
-hash = "c86c6e909ec4731efaae4b97bb06d7d5a559794861c5805491ee0da0497c4877"
 
 [[files]]
 file = "mods/special-ftbquestlocalizer-1.20.1-forge-3.2.2.jar"

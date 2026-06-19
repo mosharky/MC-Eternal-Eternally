@@ -1086,7 +1086,7 @@ hash = "bafdc53b21f11eadd6c1a932a9dcb7f7ec9e503be98cbd81ce92c17228be7439"
 
 [[files]]
 file = "config/ae2/client.json"
-hash = "963acbfdc0b2bdcdadcc84dfc83c3e9cbb239ac37e00633e589e2195ea516c96"
+hash = "fe54290ebcf6525747d421dba9f20a99a01b2a67f8b9210700032b3832571dde"
 
 [[files]]
 file = "config/ae2/common.json"
@@ -1547,6 +1547,22 @@ hash = "41c4ca4a2dc0e88d4ac245f61e81b55b4811d2529aa482e452ee1d68aa68aceb"
 [[files]]
 file = "config/allurement-common.toml"
 hash = "7e172760e0b295705251d4bbeedc7c08bc691836f04bfd84a8ae53804ece0c82"
+
+[[files]]
+file = "config/almostunified/debug.json"
+hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "665618d4d16a50ebb06eb41fb59a85f4d4335240738b308a7e4b54fcf4ecc5dc"
 
 [[files]]
 file = "config/alshanex_familiars-common.toml"
@@ -2338,7 +2354,7 @@ hash = "aa36ed552c0c6efaeb76ed91d8bf496b89818a7710060ee50996afe1c2a2aaff"
 
 [[files]]
 file = "config/betterfpsdist.json"
-hash = "37b3fc20f9a1ad21b21dccf627c880619543ea20a75d6981ccf349f397f235e8"
+hash = "1d15ff6d4f6998f7f14e0726d7a9e22d79935bffd82e9f8e3624d1127e79e517"
 
 [[files]]
 file = "config/bettergrass.json5"
@@ -3526,7 +3542,7 @@ hash = "c3be865773bd3234285abdf9521653d56dcfb34bb2b13a5ddaea68fbaee1f746"
 
 [[files]]
 file = "config/fancymenu/customization/without MM.txt"
-hash = "d635111d1cdc0f5ddc60692d702effb350cdad5f2b5c7f32470484c4adba9a95"
+hash = "0bca8d9eb8f023fb53aebfea04a722bfe65b2c89be1f657e1d9223ffc6aaedcf"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -5258,7 +5274,7 @@ hash = "01a81df69f63f64555d31d30bc417fca4160eb0b69dfed31450880f09792cd54"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "8c5ae3646c07bfd87fe9259333c2df2b7eb2670cd0c64c21f48f69e0a5629a18"
+hash = "29de2bb6c5f15486833f3ee66a58cf2a964ea5e93dd4593210b0547c260296a1"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
@@ -6402,7 +6418,7 @@ hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
 
 [[files]]
 file = "config/sophisticatedcore-client.toml"
-hash = "3175ac14ac1da55ba706d1f0321c0b5620cd968a381e60323b283778e7b6d9e6"
+hash = "46a0fddb5557809231c9625853201c2e4fd7825b1589b777a5026201dfb6f467"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
@@ -7856,7 +7872,7 @@ hash = "a39ac4bc1ef758d233c3b7a5ef0b08a344bbf44c88cba398a3017dee15ed338b"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "0ff547c626f169ec48d4d0fd073bf41b03762d15f72cc5e7ce35d869098867cd"
+hash = "146f8b9996b87bef2c4e53bcdc2fecc23268fb10093059f82353c188fd651f63"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/pt_br.json"
@@ -9386,6 +9402,11 @@ file = "kubejs/assets/specialmobs/lang/pt_br.json"
 hash = "e07b1028264ffcd41bf5d348c3f64149bfbed707ec0006cc77eb7c2396a39780"
 
 [[files]]
+file = "kubejs/assets/sweety-items-alex-mobs.pw.toml"
+hash = "5b118eff2fc02f1b5de3b4d32119abb0658a5924f68a231576f59ca39d843443"
+metafile = true
+
+[[files]]
 file = "kubejs/assets/tconstruct/lang/en_us.json"
 hash = "d8380a7009dd4b5ad7663e301ee86a4a836922dd043cc86bc33915d37ce53c2c"
 
@@ -10182,7 +10203,7 @@ hash = "94d0c3d72146339a82fbf71899147c66877c19cf94d5f5a86c4a218e17ca09f4"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "dab116a8ebf95d89e7ad22f204539072f826c13c993f1a9faff9ee3c035f10b4"
+hash = "dbb3a51c264859885a9a7274db74458273b80a2181f73e54250676b0fd9055af"
 
 [[files]]
 file = "kubejs/data/ad_astra/planets/adams_world.json"
@@ -13006,11 +13027,11 @@ hash = "e15d55a80180c549638395dccd4e316070cd326ae2f203311d4e5b22d4be7f8e"
 
 [[files]]
 file = "kubejs/data/constructs_casting/tinkering/materials/stats/mithril.json"
-hash = "16768ccb128c5ff5a1c47a01bf16217c30452ba267e455fa4d66dcd539e21809"
+hash = "7b321ff566768f880997dbd8e6e5bcc19825ba88a523d0d7d2d5a01bcfa5ebec"
 
 [[files]]
 file = "kubejs/data/constructs_casting/tinkering/materials/stats/pyrium.json"
-hash = "ddb12011117a8a8edee49b326bc93c5acb8d330457fe1e57909b51a620ff812c"
+hash = "a8da8180b0286bf2cdac154a4417f111e541be710fe2fc9abbce5cbfdbf9c0f1"
 
 [[files]]
 file = "kubejs/data/constructs_casting/tinkering/materials/traits/exilite.json"
@@ -13579,6 +13600,10 @@ file = "kubejs/data/integrated_stronghold/worldgen/template_pool/portal_room/por
 hash = "3e6080fc45c31d4e232e8f444421fa614af361a5ae0a9f477825ec6b685f48ab"
 
 [[files]]
+file = "kubejs/data/irons_spellbooks/forge/biome_modifier/add_mithril_ore.json"
+hash = "33f5d92a4c28ab0289b226e599ae58972112e4eacae9891159c750d693a262d1"
+
+[[files]]
 file = "kubejs/data/irons_spellbooks/loot_tables/patchouli_book.json"
 hash = "0c5d94ec17c44c19c887ca279cb4b3fe18794de187bb17055c69a2a6a2138362"
 
@@ -13605,6 +13630,10 @@ hash = "106214cdea0ebf6d8a730fd7756ba0b3c5805c6d2cfeeae35d108cfe467960ad"
 [[files]]
 file = "kubejs/data/irons_spellbooks/weapon_attributes/spellbreaker.json"
 hash = "119061d237b5cc0674b2488818fd314343f8d96a02c8390a031299ad3d13a51d"
+
+[[files]]
+file = "kubejs/data/irons_spellbooks/worldgen/placed_feature/ore_mithril_placement.json"
+hash = "57ce4858dba5420ef4711207541a6fbf24dfdd4364e2ded12ec9548e96f7043b"
 
 [[files]]
 file = "kubejs/data/jolly_boxes/recipes/large_box.json"
@@ -15992,7 +16021,7 @@ hash = "0cc280413c3bb9756be73584e4602db53e2aad7a23afa913fa48ade64a55112b"
 
 [[files]]
 file = "kubejs/server_scripts/Common/dimensional_effects.js"
-hash = "6410dfe4adf970233800d2f8cab732761bc0260806617c508623dd157ba396b4"
+hash = "7bd99bbb2a5d903fde76ff1f10872701b3e36e469a495f6648ce4009ef17461b"
 
 [[files]]
 file = "kubejs/server_scripts/Common/tags/FTB_chunk_tags.js"
@@ -16253,6 +16282,16 @@ metafile = true
 [[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
+metafile = true
+
+[[files]]
+file = "mods/almost-unify-everything.pw.toml"
+hash = "9f54fb535c90936437384f97a8cf75924bce62cc99338523e4710e2b5d21c6aa"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "bc9bc4dc5e09b5213fb158a83d63d5def7bb016c3cef65405f8f2f6c0c62b158"
 metafile = true
 
 [[files]]
@@ -16893,6 +16932,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "4cfb0ff137a901360b23eadff2df3f41c125099f81ba3c3ba20b5ea29273cf62"
 metafile = true
 
 [[files]]

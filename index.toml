@@ -7856,7 +7856,7 @@ hash = "a39ac4bc1ef758d233c3b7a5ef0b08a344bbf44c88cba398a3017dee15ed338b"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "0ff547c626f169ec48d4d0fd073bf41b03762d15f72cc5e7ce35d869098867cd"
+hash = "146f8b9996b87bef2c4e53bcdc2fecc23268fb10093059f82353c188fd651f63"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/pt_br.json"
@@ -10182,7 +10182,7 @@ hash = "94d0c3d72146339a82fbf71899147c66877c19cf94d5f5a86c4a218e17ca09f4"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "dab116a8ebf95d89e7ad22f204539072f826c13c993f1a9faff9ee3c035f10b4"
+hash = "dbb3a51c264859885a9a7274db74458273b80a2181f73e54250676b0fd9055af"
 
 [[files]]
 file = "kubejs/data/ad_astra/planets/adams_world.json"
@@ -13006,11 +13006,11 @@ hash = "e15d55a80180c549638395dccd4e316070cd326ae2f203311d4e5b22d4be7f8e"
 
 [[files]]
 file = "kubejs/data/constructs_casting/tinkering/materials/stats/mithril.json"
-hash = "16768ccb128c5ff5a1c47a01bf16217c30452ba267e455fa4d66dcd539e21809"
+hash = "7b321ff566768f880997dbd8e6e5bcc19825ba88a523d0d7d2d5a01bcfa5ebec"
 
 [[files]]
 file = "kubejs/data/constructs_casting/tinkering/materials/stats/pyrium.json"
-hash = "ddb12011117a8a8edee49b326bc93c5acb8d330457fe1e57909b51a620ff812c"
+hash = "a8da8180b0286bf2cdac154a4417f111e541be710fe2fc9abbce5cbfdbf9c0f1"
 
 [[files]]
 file = "kubejs/data/constructs_casting/tinkering/materials/traits/exilite.json"
@@ -13579,6 +13579,10 @@ file = "kubejs/data/integrated_stronghold/worldgen/template_pool/portal_room/por
 hash = "3e6080fc45c31d4e232e8f444421fa614af361a5ae0a9f477825ec6b685f48ab"
 
 [[files]]
+file = "kubejs/data/irons_spellbooks/forge/biome_modifier/add_mithril_ore.json"
+hash = "33f5d92a4c28ab0289b226e599ae58972112e4eacae9891159c750d693a262d1"
+
+[[files]]
 file = "kubejs/data/irons_spellbooks/loot_tables/patchouli_book.json"
 hash = "0c5d94ec17c44c19c887ca279cb4b3fe18794de187bb17055c69a2a6a2138362"
 
@@ -13605,6 +13609,10 @@ hash = "106214cdea0ebf6d8a730fd7756ba0b3c5805c6d2cfeeae35d108cfe467960ad"
 [[files]]
 file = "kubejs/data/irons_spellbooks/weapon_attributes/spellbreaker.json"
 hash = "119061d237b5cc0674b2488818fd314343f8d96a02c8390a031299ad3d13a51d"
+
+[[files]]
+file = "kubejs/data/irons_spellbooks/worldgen/placed_feature/ore_mithril_placement.json"
+hash = "57ce4858dba5420ef4711207541a6fbf24dfdd4364e2ded12ec9548e96f7043b"
 
 [[files]]
 file = "kubejs/data/jolly_boxes/recipes/large_box.json"
@@ -15992,7 +16000,7 @@ hash = "0cc280413c3bb9756be73584e4602db53e2aad7a23afa913fa48ade64a55112b"
 
 [[files]]
 file = "kubejs/server_scripts/Common/dimensional_effects.js"
-hash = "6410dfe4adf970233800d2f8cab732761bc0260806617c508623dd157ba396b4"
+hash = "7bd99bbb2a5d903fde76ff1f10872701b3e36e469a495f6648ce4009ef17461b"
 
 [[files]]
 file = "kubejs/server_scripts/Common/tags/FTB_chunk_tags.js"

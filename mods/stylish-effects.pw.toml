@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5096987
 project-id = 543661
+
+[option]
+optional = true
+default = true
+description = "Disabling might improve performance."

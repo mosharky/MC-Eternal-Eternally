@@ -15,4 +15,4 @@ project-id = 925889
 [option]
 optional = true
 default = true
-description = "New block and UI sounds"
+description = "Preference: New block and UI sounds"

@@ -15,4 +15,4 @@ project-id = 1021685
 [option]
 optional = true
 default = true
-description = "Animated UI"
+description = "Preference: Animated UI"

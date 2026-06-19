@@ -17626,7 +17626,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-ui.pw.toml"
-hash = "13b690894a30964c83dac2451a72b6774345614d4ae6bbfef843280f07fa36d0"
+hash = "195e0837d25310ff2764ba9ac288d3e3db06d489a743d4e6913869684f6c97ef"
 metafile = true
 
 [[files]]
@@ -17896,7 +17896,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "bbbef26097069430126ba44de152dda9c72c8b2ec2ff3c5036d526f069de8c09"
+hash = "fcacde674272c229cdba2a387b40d25dc4a9374b5648e12ae26d0d6453ecf97c"
 metafile = true
 
 [[files]]
@@ -18151,7 +18151,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-cursor.pw.toml"
-hash = "5d4ac42332f398c88b335efaf7c2c57c26c970d88cdb788530fb8e6f088ffb20"
+hash = "2fc4e1912904614b71164ae8745d91052f221924a7dae90e77fd5be22f9c2717"
 metafile = true
 
 [[files]]
@@ -18426,7 +18426,7 @@ metafile = true
 
 [[files]]
 file = "mods/perception.pw.toml"
-hash = "b2d16ecc15e657c536da66e81c396762c89aec9069c1c23e9c63be096082a0d6"
+hash = "7e38638dd2f02be4da1f090c0eeadbc54624c96630082ce25caad3ee617613e4"
 metafile = true
 
 [[files]]
@@ -18491,7 +18491,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "3a62025fcf7239c3bf0628e4a4248c82e9768569126b7c4edc84ade4b696936d"
+hash = "ccf3f04b8981325c8edf40ac56cc8d3e0d07a644b1c391aab0b81deb4cda1768"
 metafile = true
 
 [[files]]
@@ -18796,7 +18796,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "aa9fc332ac978eac46e1ec7c7a775382e9926972f691d036d855e20df7cea4d2"
+hash = "9594482e4c1221db104927a1bab3ee4df70a56aa0001a2bb2bc7db96cd762f09"
 metafile = true
 
 [[files]]
@@ -18881,7 +18881,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylish-effects.pw.toml"
-hash = "4dd15cfa3513eba6c179f0553cf3a09506a669cf5fbed81d48fdb1d5ad05fffb"
+hash = "0328cc6e439fbebcc498d801502c5c13fa04c2ced6f7fdbb531fbdcf0713ff56"
 metafile = true
 
 [[files]]

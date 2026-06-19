@@ -15,4 +15,4 @@ project-id = 1184736
 [option]
 optional = true
 default = true
-description = "Custom cursor"
+description = "Preference: New cursor"

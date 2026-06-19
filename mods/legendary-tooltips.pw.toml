@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4662781
 project-id = 532127
+
+[option]
+optional = true
+default = true
+description = "Preference: Adds coloured borders depending on item rarity"

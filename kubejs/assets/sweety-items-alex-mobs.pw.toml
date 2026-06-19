@@ -1,0 +1,13 @@
+name = "Sweety's Items (Alex's Mobs)"
+filename = "sweety_items_20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HS1rrq2d/versions/WNM47kDy/sweety_items_20.zip"
+hash-format = "sha512"
+hash = "f0d9fd527963ccea16cf7399ddd87a8c0b9c4606b98aeccde2627778359ce2d826574f922de814bfe48ea3414c85f06eb1f7d6a5b66d1adc0860a0b22e42a01e"
+
+[update]
+[update.modrinth]
+mod-id = "HS1rrq2d"
+version = "WNM47kDy"

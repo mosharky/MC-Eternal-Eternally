@@ -1086,7 +1086,7 @@ hash = "bafdc53b21f11eadd6c1a932a9dcb7f7ec9e503be98cbd81ce92c17228be7439"
 
 [[files]]
 file = "config/ae2/client.json"
-hash = "963acbfdc0b2bdcdadcc84dfc83c3e9cbb239ac37e00633e589e2195ea516c96"
+hash = "fe54290ebcf6525747d421dba9f20a99a01b2a67f8b9210700032b3832571dde"
 
 [[files]]
 file = "config/ae2/common.json"
@@ -1547,6 +1547,22 @@ hash = "41c4ca4a2dc0e88d4ac245f61e81b55b4811d2529aa482e452ee1d68aa68aceb"
 [[files]]
 file = "config/allurement-common.toml"
 hash = "7e172760e0b295705251d4bbeedc7c08bc691836f04bfd84a8ae53804ece0c82"
+
+[[files]]
+file = "config/almostunified/debug.json"
+hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "665618d4d16a50ebb06eb41fb59a85f4d4335240738b308a7e4b54fcf4ecc5dc"
 
 [[files]]
 file = "config/alshanex_familiars-common.toml"
@@ -2338,7 +2354,7 @@ hash = "aa36ed552c0c6efaeb76ed91d8bf496b89818a7710060ee50996afe1c2a2aaff"
 
 [[files]]
 file = "config/betterfpsdist.json"
-hash = "37b3fc20f9a1ad21b21dccf627c880619543ea20a75d6981ccf349f397f235e8"
+hash = "1d15ff6d4f6998f7f14e0726d7a9e22d79935bffd82e9f8e3624d1127e79e517"
 
 [[files]]
 file = "config/bettergrass.json5"
@@ -3526,7 +3542,7 @@ hash = "c3be865773bd3234285abdf9521653d56dcfb34bb2b13a5ddaea68fbaee1f746"
 
 [[files]]
 file = "config/fancymenu/customization/without MM.txt"
-hash = "d635111d1cdc0f5ddc60692d702effb350cdad5f2b5c7f32470484c4adba9a95"
+hash = "0bca8d9eb8f023fb53aebfea04a722bfe65b2c89be1f657e1d9223ffc6aaedcf"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -5258,7 +5274,7 @@ hash = "01a81df69f63f64555d31d30bc417fca4160eb0b69dfed31450880f09792cd54"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "8c5ae3646c07bfd87fe9259333c2df2b7eb2670cd0c64c21f48f69e0a5629a18"
+hash = "29de2bb6c5f15486833f3ee66a58cf2a964ea5e93dd4593210b0547c260296a1"
 
 [[files]]
 file = "config/jei/jei-colors.ini"
@@ -6402,7 +6418,7 @@ hash = "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506"
 
 [[files]]
 file = "config/sophisticatedcore-client.toml"
-hash = "3175ac14ac1da55ba706d1f0321c0b5620cd968a381e60323b283778e7b6d9e6"
+hash = "46a0fddb5557809231c9625853201c2e4fd7825b1589b777a5026201dfb6f467"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
@@ -9384,6 +9400,11 @@ hash = "6fe1dabd4fdb278fdf575b6d5c09cbc74a68d4e5f975ede35995c28a1e5eeb96"
 [[files]]
 file = "kubejs/assets/specialmobs/lang/pt_br.json"
 hash = "e07b1028264ffcd41bf5d348c3f64149bfbed707ec0006cc77eb7c2396a39780"
+
+[[files]]
+file = "kubejs/assets/sweety-items-alex-mobs.pw.toml"
+hash = "5b118eff2fc02f1b5de3b4d32119abb0658a5924f68a231576f59ca39d843443"
+metafile = true
 
 [[files]]
 file = "kubejs/assets/tconstruct/lang/en_us.json"
@@ -16264,6 +16285,16 @@ hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
 metafile = true
 
 [[files]]
+file = "mods/almost-unify-everything.pw.toml"
+hash = "9f54fb535c90936437384f97a8cf75924bce62cc99338523e4710e2b5d21c6aa"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "bc9bc4dc5e09b5213fb158a83d63d5def7bb016c3cef65405f8f2f6c0c62b158"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "e03b05307a9186baa39fdcc6113030f4a631068438801e3fda1be55cdf42d7f8"
 metafile = true
@@ -16901,6 +16932,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "4cfb0ff137a901360b23eadff2df3f41c125099f81ba3c3ba20b5ea29273cf62"
 metafile = true
 
 [[files]]

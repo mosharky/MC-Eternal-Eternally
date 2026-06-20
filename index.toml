@@ -16096,6 +16096,10 @@ file = "kubejs/server_scripts/Compatibility/unification.js"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/server_scripts/_CUSTOM/recipes.js"
+hash = "e57bb660c59f3e2f61faf79827730dc2c95f8a6fd1c4182e0efdab9356ddeb49"
+
+[[files]]
 file = "kubejs/server_scripts/artifacts_gamerules.js"
 hash = "7f4773f5d808ff62ffb51cbd2508f427dadaac7ba3e94dd5f63ab75aa2e2ed67"
 

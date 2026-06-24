@@ -1117,6 +1117,10 @@ file = "config/aiimprovements-common.toml"
 hash = "d65113ea15e814463b1f477b0cebcc98dfe06a5d3f7100e3bacd414c7cb391ec"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "1570c4025fc3501c1c98b8b74883f9274046f7cfd87816a763a517eedcbe8533"
+
+[[files]]
 file = "config/alekiships-client.toml"
 hash = "4a677fe64e61836f0cde7a297c66026b7b57080713226983d3e4ee6c60233f2f"
 
@@ -2405,6 +2409,10 @@ file = "config/biomeswevegone/world_generation.json5"
 hash = "76df5747d4ecb611e88e7983b38b07dd0da5ffeaf45f094719ce9bd659d3faf2"
 
 [[files]]
+file = "config/bits_n_bobs-common.toml"
+hash = "662908d46495113a7c30e5bae81cdbb2f3b1946d8c1d394e8a1ded6868017b4a"
+
+[[files]]
 file = "config/blighted_beasts-common.toml"
 hash = "788100f794ae2f1f22a33f90409b8d2dbdd87f00504df37a55e6ba42be71ed6e"
 
@@ -3247,6 +3255,10 @@ hash = "4ad8b1ff7452bc6314a778a45ecc370fef4b586963c650f8836de2ce110ee4f0"
 [[files]]
 file = "config/exposure-common.toml"
 hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
+
+[[files]]
+file = "config/extremesoundmuffler-client.toml"
+hash = "ee756799945279dccc8b2a346630a5c74c9eed54e37f4569d11aff549b814931"
 
 [[files]]
 file = "config/fadingnv/fadingnightvision.cfg"
@@ -5266,7 +5278,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "8a0645ec530b17bc5145cc2dc476713d7edcab4f2fde78e00511afbb9fedbc88"
+hash = "aca35d9a085940afe2ff0a15810430a3f1daa16268deef8b9e107a418296cd92"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -6350,7 +6362,7 @@ hash = "3b496af2aee64a201b099304ff31e574201bfa142649c16c19fcef5760d48d00"
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "3ad57b9feef223f7f002f9c7d8125369a80622429892ceee4deab08677e10c67"
+hash = "763c64e3e8d2285ae47444685ccbee8608e9a1600e1141d3247b5aaae9b24d40"
 
 [[files]]
 file = "config/simplystacked-common.toml"
@@ -16239,6 +16251,11 @@ hash = "e4c225451a42377a82279c3579dddf607b139807d82127b4626fa128601ab0d4"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
+metafile = true
+
+[[files]]
 file = "mods/alekiships.pw.toml"
 hash = "1a15600bfc496f94f93da7062f19ce4a403478936600953c32e38235818a9027"
 metafile = true
@@ -16934,6 +16951,11 @@ hash = "4f30c6d29f6c7e4fdff3c27f9cae318fbaa9221e5e6c33b093c3cf61fcc65330"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "cd1d5a57c6fe6432043ceb6c4756f17d79477989658d7d3f18ab6ae82e8b918f"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "40ac9690c8b569e974a1f3172ea9a517ca1459ad04ab7144a0be85280227c45e"
 metafile = true
@@ -17281,6 +17303,11 @@ metafile = true
 [[files]]
 file = "mods/extraquests.pw.toml"
 hash = "8966a41efc94bd6470e9e3535b2ce69f996422c0a1f1c730a135cfefd0d14dd6"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "e750d11e33b743d071610f12424b607a6e2b21690df3b952df9be263f11f7e01"
 metafile = true
 
 [[files]]

@@ -17951,11 +17951,6 @@ hash = "2c255a6aff5c016d8769777fd9e23f4bbc256d103fb45eef12b1d6af77249ba1"
 metafile = true
 
 [[files]]
-file = "mods/limited-chunkloading.pw.toml"
-hash = "ec4a1d920bd1b52bc31dc6546870bee92e450a4d6accfcd6cf96fd6b6f594be9"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "cd4f68a95ea9d1931c351a058338c5b0aba17769c685fa9a496da43cbac17ad8"
 metafile = true
